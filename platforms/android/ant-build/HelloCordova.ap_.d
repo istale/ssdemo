@@ -13,6 +13,7 @@
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/_where-is-www.txt \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www \
+/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/config.xml \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/cordova.js \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/cordova_plugins.js \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css \
