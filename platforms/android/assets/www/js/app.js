@@ -12,10 +12,10 @@ $(document).ready(function(){
         });
     });
 
-    $("div[data-role=page]").bind("pagebeforeshow", function (e, data) {
-        $.mobile.silentScroll(0);
-        $.mobile.changePage.defaults.transition = 'slide';
-    });
+    // $("div[data-role=page]").bind("pagebeforeshow", function (e, data) {
+    //     $.mobile.silentScroll(0);
+    //     $.mobile.changePage.defaults.transition = 'slide';
+    // });
 
 
 });
