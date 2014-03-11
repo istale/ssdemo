@@ -22,17 +22,10 @@
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/js \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/index.css \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/jquery.mobile-1.4.2.css \
-/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/themes \
-/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/themes/default \
-/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/themes/default/images \
-/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/themes/default/jquery.mobile-1.4.0.css \
-/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/themes/default/jquery.mobile-1.4.0.min.css \
-/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/css/themes/default/images/ajax-loader.gif \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/img/logo.png \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/js/app.js \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/js/fastclick.js \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/js/index.js \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/js/jquery-1.11.0.js \
-/Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/js/jquery.mobile-1.4.2.css \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/assets/www/js/jquery.mobile-1.4.2.js \
 /Users/istale/Documents/icdt/cordova/ssdemo/platforms/android/ant-build/AndroidManifest.xml \
