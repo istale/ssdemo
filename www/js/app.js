@@ -1,16 +1,16 @@
 
 $(document).ready(function(){
 
-    // $("a[data-role=tab]").each(function () {
-    //     var anchor = $(this);
-    //     anchor.bind("click", function () {
-    //         $.mobile.changePage(anchor.attr("href"), {
-    //             transition: "none",
-    //             changeHash: false
-    //         });
-    //         return false;
-    //     });
-    // });
+    $("a[data-role=tab]").each(function () {
+        var anchor = $(this);
+        anchor.bind("click", function () {
+            $.mobile.changePage(anchor.attr("href"), {
+                transition: "none",
+                changeHash: false
+            });
+            return false;
+        });
+    });
 
     // $("div[data-role=page]").bind("pagebeforeshow", function (e, data) {
     //     $.mobile.silentScroll(0);
